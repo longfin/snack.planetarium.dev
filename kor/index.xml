@@ -1,0 +1,16 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko"><title>플라네타리움 엔지니어링 스낵</title><link rel="self" href="https://snack.planetarium.dev/kor/index.xml"/><link rel="alternate" href="https://snack.planetarium.dev/kor/" title="플라네타리움 엔지니어링 스낵"/><link rel="alternate" href="https://snack.planetarium.dev/eng/" hreflang="en" title="Planetarium Engineering Snack"/><updated>2019-03-29T00:00:00&#43;00:00</updated><id>https://snack.planetarium.dev/kor/</id><entry><title>시작하며</title><link rel="alternate" href="https://snack.planetarium.dev/kor/2019/03/beginning/" title="시작하며"/><id>https://snack.planetarium.dev/kor/2019/03/beginning/</id><published>2019-03-29T00:00:00&#43;00:00</published><updated>2019-03-29T00:00:00&#43;00:00</updated><content type="html">&lt;p&gt;안녕하세요.
+블록체인 기술을 통해 탈중앙 멀티플레이 게임과 함께,
+&lt;a href=&#34;https://libplanet.io/&#34;&gt;누구나 그런 게임을 만들 수 있는 오픈 소스 라이브러리&lt;/a&gt;를
+만들고 있는 &lt;a href=&#34;https://planetariumhq.com/&#34;&gt;플라네타리움&lt;/a&gt; 팀입니다.&lt;/p&gt;
+&lt;p&gt;탈중앙화나 블록체인에 대해서는 2009년에 &lt;a href=&#34;https://bitcoin.org/&#34;&gt;비트코인&lt;/a&gt;이 선을 보인 이래로
+많은 연구나 개발이 진행이 된 분야입니다. 더 거슬러 올라가자면 컴퓨터 과학
+분야에서 &lt;a href=&#34;https://en.wikipedia.org/wiki/Distributed_computing&#34;&gt;분산 컴퓨팅&lt;/a&gt;이란 이름으로 연구되던 부분이기도 하죠.
+하지만 이러한 기술을 블록체인 코어 레벨에서 게임 개발 프로세스와 연결해서
+개발하다 보니 기존 연구를 바로 적용하기 어렵거나, 게임 개발에 필요한
+플랫폼에 구현체가 없는 경우가 종종 있었습니다.&lt;/p&gt;
+&lt;p&gt;저희는 스낵처럼 짧은 글들을 통해, 이런 시행착오를 통해 어떤 것을
+배웠는지를 공유하려고 합니다.
+&amp;ldquo;스낵&amp;rdquo;이란 이름에서 드러나는 것처럼, 일반적인 블로그 포스팅에 비해
+읽는 쪽도 쓰는 쪽도 크게 부담이 가지 않는 짧은 호흡을 지향하고 있으며
+그만큼 갱신도 자주 하려고 합니다.&lt;/p&gt;
+&lt;p&gt;그럼 첫 포스팅으로 찾아뵙겠습니다.&lt;/p&gt;</content><author><name>문성원</name><uri>https://github.com/longfin</uri><email>swen@planetariumhq.com</email></author><author><name>홍민희</name><uri>https://github.com/dahlia</uri><email>hong.minhee@planetariumhq.com</email></author></entry></feed>
